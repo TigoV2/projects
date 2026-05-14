@@ -12,7 +12,7 @@
     {
         "img": "https://raw.githubusercontent.com/TigoV2/projects/main/images/project/gooberos.jpg",
         "title": "Goober OS",
-        "description": "A linux like \"Web OS\" command line operating system made for a make-a-thon competition. </br> We won in our year category! </br>",
+        "description": "A linux like \"Web OS\" command line operating system made for a make-a-thon competition. </br> We won in our year category!",
         "age": "2025-03-15",
         "link": "https://jeav2.github.io/gooberos/",
         "github": "https://github.com/JeaV2/gooberos",
@@ -21,7 +21,7 @@
     {
         "img": "https://raw.githubusercontent.com/TigoV2/projects/main/images/project/thorn.png",
         "title": "Combat Exosuit Thorn",
-        "description": "A Plane-Shooter, Visual-Novel game made for a make-a-thon competition. </br> We won in our year category! </br>",
+        "description": "A Plane-Shooter, Visual-Novel game made for a make-a-thon competition. </br> We won in our year category!",
         "age": "2026-04-15",
         "link": "https://github.com/JojosBizarreCoding/save-the-world/releases/tag/1.0.0",
         "github": "https://github.com/JojosBizarreCoding/save-the-world/tree/main",
