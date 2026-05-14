@@ -41,7 +41,7 @@
       "title": "MayaDevelopment - API",
       "description": "My current personal project. <br> Made for hypixel bedwars players. </br> (Work in progress).",
       "age": "soon",
-      "link": "-",
+      "link": "",
       "github": "-",
       "tags": ["TypeScript", "Python", "API"]
     },
@@ -51,7 +51,7 @@
       "description": "Pokemon Terrainium is a Pokemon fan game made in RPG Maker XP. <br> (Work in progress).",
       "age": "soon",
       "link": "",
-      "github": "",
+      "github": "https://github.com/TigoV2",
       "tags": ["RPG Maker XP", "Ruby"],
       "subContent": [
         {
