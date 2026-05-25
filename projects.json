@@ -39,7 +39,7 @@
     {
         "img": "https://raw.githubusercontent.com/TigoV2/projects/main/images/project/bottlecounter.jpg",
         "title": "Bottle-Counter",
-        "description": "A bottle counter system made for a school assignment. </br> It was made for a school assignment, we used an ardiuno to count the bottles, and a webapp to display the count.",
+        "description": "A bottle counter system made for a school assignment. </br> It was made for a school assignment, using an arduino.",
         "age": "2026-04-13",
         "link": "https://102710.stu.sd-lab.nl/bottle_counter/",
         "github": "https://github.com/JeaV2/bottle_counter/tree/main",
