@@ -37,6 +37,15 @@
         "tags": ["JavaScript", "Three.js", "Blender"]
     },
     {
+        "img": "https://raw.githubusercontent.com/TigoV2/projects/main/images/project/bottlecounter.jpg",
+        "title": "Bottle-Counter",
+        "description": "A bottle counter system made for a school assignment. </br> It was made for a school assignment, we used an ardiuno to count the bottles, and a webapp to display the count.",
+        "age": "2026-04-13",
+        "link": "https://102710.stu.sd-lab.nl/bottle_counter/",
+        "github": "https://github.com/JeaV2/bottle_counter/tree/main",
+        "tags": ["PHP", "C", "c++", "HTML", "CSS", "JavaScript"]
+    },
+    {
       "img": "https://raw.githubusercontent.com/TigoV2/projects/main/images/project/typescript.avif",
       "title": "MayaDevelopment - API",
       "description": "My current personal project. <br> Made for hypixel bedwars players. </br> (Work in progress).",
