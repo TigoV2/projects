@@ -47,9 +47,9 @@
     },
     {
       "img": "https://raw.githubusercontent.com/TigoV2/projects/main/images/project/typescript.avif",
-      "title": "MayaDevelopment - API",
-      "description": "My current personal project. <br> Made for hypixel bedwars players. </br> (Work in progress).",
-      "age": "soon",
+      "title": "M̶a̶y̶a̶D̶e̶v̶e̶l̶o̶p̶m̶e̶n̶t̶ -̶ A̶P̶I̶",
+      "description": "Made for hypixel bedwars players. Has been discontinued, will continue this on the new version.",
+      "age": "dead",
       "link": "",
       "github": "https://github.com/TigoV2/MayaDevelopment-API",
       "tags": ["TypeScript", "Python", "API"]
@@ -74,6 +74,15 @@
           "github": "https://github.com/dragonfreddy5/Pokemon-Terrainium/tree/main/Pokemon%20Terranium/Plugins/Pok%C3%A9mon-Terrainium%20Biomes"
         }
      ]
+    },
+        {
+      "img": "https://raw.githubusercontent.com/TigoV2/projects/main/images/project/mayadevelopment.png",
+      "title": "MayaDevelopment - API",
+      "description": "My current personal project. <br> Made for hypixel bedwars players. </br> (Work in progress).",
+      "age": "soon",
+      "link": "",
+      "github": "",
+      "tags": ["TypeScript", "Rust", "API"]
     }
   ]
 }
